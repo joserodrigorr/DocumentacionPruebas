@@ -2,9 +2,17 @@
 Pruebas de documentación
 
 
-### Descripción:
+**Tabla de Contenido**
 
-**Módulo de Conectividad:**
+[TOCM]
+
+[TOC]
+
+---
+
+### **Descripción:**
+
+### **Módulo de Conectividad:**
 
 Un módulo de conectividad es una herramienta que facilita la conexión entre diferentes sistemas que utilizas en tu empresa. Imagina que es como un "puente" que une tus sistemas con otros sistemas externos (como tu sistema de ventas con el sistema de inventario de un proveedor).
 
@@ -49,7 +57,7 @@ Si se requiere realizar consultas o conectores dinámicos (personalizados), es n
 
 En Siesa actualmente se dispone de un sistema Gestor de Integraciones (antes conocido como Connekta), el cual incluye el Módulo de Conectividad.
 
-### Ingreso al Gestor de Integraciones 
+### **Ingreso al Gestor de Integraciones** 
 
 
 Para ingresar al Gestor de Integraciones es necesario disponer y usar un enlace (Link) similar al siguiente para su compañía; uno para QA (Ambiente de pruebas) y otro para CORE (Ambiente de Producción), en esta guía nos basaremos solo en la parte de QA, pero es igual para CORE, la diferencia entre QA y CORE es que en QA se trabaja en ambiente de pruebas y en CORE se trabaja en ambiente productivo en el ERP de Siesa.  
